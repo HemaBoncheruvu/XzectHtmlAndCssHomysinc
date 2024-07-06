@@ -1,0 +1,489 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Page1{
+    padding: 20px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.head a{
+    color: #b3aeae;
+    text-decoration: none;
+    padding: 20px;
+}
+.head a:hover{
+    color: #ffffff;
+}
+.head select{
+   background-color: none;
+
+   
+}
+.Page1{
+    background-image: url("https://techupsmartbuildings.com/wp-content/uploads/Smart-homes-scaled-1.jpg");
+    background-size: cover;
+    color: #ffffff;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.content{
+    font-family:inherit;
+    font-size: 30px;
+    padding-top: 200px;
+   translate: 200px;
+}
+button{
+    background-color: rgb(127, 208, 255);
+    padding: 15px;
+    color:rgb(42, 47, 45);
+    font-size: 20px;
+   border-color: rgb(127, 208, 255);
+   border-radius: 7px;
+   width:200px;
+}
+.head select{
+    border: none;
+    outline: salmon;
+    background-color: #0e4e7f;
+    background-size: 0px;
+   color: #b3aeae;
+}
+
+.Option{
+     padding: 100px;
+}
+.img1{
+    display: flex;
+}
+.Option a{
+   
+padding-top:15px;
+}
+.Contact{
+    display: flex;
+   width: 170px;
+   height: 25px;
+    background-color: rgb(19, 12, 12);
+    color: #ffffff;
+}
+.Contact b:hover{
+    display: flex;
+    width: 170px;
+   height: 25px;
+   color: black;
+    background-color: rgb(127, 236, 255);
+}
+.page2{
+    padding-top: 10px;
+}
+.page2imag1{
+    padding-left:500px ;
+}
+.page2img2{
+    display: flex;
+    justify-content: space-between;
+}
+.con{
+    padding: 10px;
+    font-size: 25px;
+    padding-top: 100px;
+    justify-content: space-between;
+}
+.con p{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.page2img3{
+    padding-left: 1000px;
+    transform: translatey(80px);
+   
+}
+.Page3{
+    background-image: url("https://img.freepik.com/free-photo/blonde-woman-reading-book-couch_23-2148471032.jpg?t=st=1718192070~exp=1718195670~hmac=f0ec1420c3bed2f460fea0701438311618e0c8b64821c610affa2d8a0aa3d2fd&w=740");
+    background-size: cover;
+    height: 600px;
+    width: 1500px;
+    color: #ffffff;
+    padding-bottom: 1000px;
+    
+   
+  
+  
+  
+}
+.page3con{
+   
+padding: 400px;
+display: flex;
+justify-content: space-between;
+}
+.page3con h3{
+    background-color: #ffffff;
+   color: black;
+   padding: 70px;
+  
+}
+.page3con h3:hover{
+background-color: aqua;
+color: black;
+padding: 70px;
+}
+.Page4{
+    padding: 30px;
+}
+.page4top{
+display: flex;
+font-size: 30px;
+justify-content: space-between;
+}
+.page4top button{
+    background-color: white;
+    transform: translatey(40px);
+}
+.page4con{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 10px;
+    background-color: antiquewhite;
+    
+}
+.page4fir{
+   justify-content: space-between;
+}
+.page4con img{
+    background-color: coral;
+}
+.page4con img:hover{
+    background-color: aqua;
+}
+.fir{
+    height: 250px;
+    width: 250px;
+    
+    
+    border-radius: 5px;
+}
+.fir:hover{
+    background-color:rgb(79, 76, 99);
+    color: #ffffff;
+    border-radius: 5px;
+}
+.Page5{
+    background-color: #143b58 ;
+    color: #ffffff;
+    background-size: 300px;
+    padding: 40px;
+    font-size: 20px;
+    display: flex;
+   height: 500px;
+    justify-content: space-between;
+}
+.par1{
+    background-color: #2f5b7e;
+    padding: 15px;
+    transform: translatex(30px);
+}
+.Page5 button{
+    transform: translatey(100px);
+}
+.comment{
+    display: flex;
+    transform: translatey(300px);
+    background-color: rgb(107, 179, 182);
+    width: 200px;
+    border-radius: 5px;
+    border-color: rgb(191, 199, 196);
+    
+}
+.comment img{
+    
+    border-radius: 25px;
+    
+}
+.comment p{
+    color: aquamarine;
+}
+.name{
+    padding-left: 20px;
+}
+.rating{
+    transform: translatey(250px);
+}
+
+.Page6 h1{
+    padding-top: 60px;
+   padding-left: 450px;
+   font-size: 41px;
+}
+.page6head{
+   padding: 70px;
+    display: flex;
+    
+    
+}
+.page6option{
+    padding: 100px;
+   
+   
+}
+.page6con{
+    padding: 150px;
+    display: flex;
+    background-color: rgb(2, 3, 3);
+    color: #ffffff;
+   
+
+}
+.page6con button{
+    background-color: rgb(43, 203, 203);
+}
+.page6con h3{
+    transform: translateY(-60px);
+}
+.rupee{
+    transform: translatex(80px);
+}
+.plan1{
+    transform: translatex(90px);
+    width: 350px;
+    padding-top: 30px;
+   font-size: 30px;
+   background-color: rgb(43, 203, 203);
+}
+.plan2{
+    transform: translatex(90px);
+   
+    width: 350px;
+    padding-top: 30px;
+   font-size: 30px;
+   background-color: white;
+}
+.plan3{
+    transform: translatex(90px);
+    width: 350px;
+    padding-top: 30px;
+   font-size: 30px;
+   background-color: white;
+}
+.plan2:hover{
+    transform: translatex(90px);
+    width: 350px;
+    padding-top: 30px;
+   font-size: 30px;
+   background-color: rgb(28, 181, 215);
+}
+.plan3:hover{
+    transform: translatex(90px);
+    width: 350px;
+    padding-top: 30px;
+   font-size: 30px;
+   background-color: rgb(19, 154, 192);
+}
+
+.page6but {
+    
+    display: flex;
+}
+.page6but img{
+background-color: rgb(242, 151, 23);
+border-radius: 9px;
+}
+.page6but1{
+    display: flex;
+    color:#b3aeae
+}
+.page6but1 img{
+    background-color: #b3aeae;
+    border-radius: 9px;
+}
+.Page7{
+    padding: 30px;
+    
+}
+.Page7 h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.page7a a{
+    justify-content: space-between;
+    text-decoration: none;
+    color:#b3aeae ;
+    padding: 40px;
+    font-size: 30px;
+}
+.page7a a:hover{
+    justify-content: space-between;
+    text-decoration: none;
+    color:#143b58 ;
+    padding: 40px;
+    font-size: 30px;
+}
+.page7con{
+   padding-left: 100px;
+    transform: translatey(-270px);
+    background-color: #ffffff; 
+    width: 500px; 
+    justify-content: center;
+}
+.page7con h2{
+    padding: 10px;
+    font-size: 41px;
+}
+ .p{
+color: #b3aeae;
+}
+
+.page7opto{
+    display: flex;
+   
+}
+.page7cor{
+    display: flex;
+    padding: 10px;
+}
+.page7cor img{
+height: 20px;
+width: 20px;
+}
+.Page8{
+   background-image: url("https://img.freepik.com/free-photo/brunette-girl-blue-shirt-black-skirt-is-standing-near-table-office-she-holds-glasses-face-paper-hand-she-is-looking-camera_197531-773.jpg?t=st=1718292976~exp=1718296576~hmac=1beeeebc777b8ebb116f1f4b1f46961de13892218ecf3676bf765e59cfc17608&w=996");
+   background-size: cover;
+   height: 1000px;
+}
+.page8con{
+    display: flex;
+    padding: 300px;
+}
+.page8conp {
+    padding-left: 50px;color: #afd1eb;
+}
+.page8conp img{
+    padding-top: 200px;
+    width: 170px;
+  
+}
+.page8conp img:hover{
+    padding-top: 200px;
+    width: 200px;
+  
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.Page9{
+    padding: 30px;
+}
+.page9top{
+    display: flex;
+    justify-content: space-between;
+}.page9top h1{
+    font-size: 50px;
+}
+.page9top button{
+    background-color: #ffffff;
+    height: 50px;
+}
+.page9but button{
+    background-color: black;
+    color: #ffffff;
+    transform: translatey(-70px);
+    width: 150px;
+    height: 50px;
+    border-color: black;
+}
+.parag{
+    transform: translatey(-40px);
+}
+.parag p{
+    color: #b3aeae;
+   
+}
+.date{
+    display: flex;
+    padding: 10px;
+    color: #b3aeae;
+}
+.parag button{
+   transform: translateY(30px);
+background-color: #ffffff;
+    
+}
+.page9imgsec{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.Page10{
+    padding: 30px;
+    font-size: 55px;
+}
+.page10con{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.page10con p{
+    padding: 10px;
+}
+.Page11{
+    padding: 30px;
+}
+.page11sub{
+    background-image: url("https://img.freepik.com/free-photo/finger-pressing-circle_1112-663.jpg?t=st=1718342377~exp=1718345977~hmac=1288a806c0f14225a00a9b3f0bf2eafdca4d00852e24ed72d5c8d4e3d70027b7&w=740");
+    height: 700px;
+    width: 1000px;
+    background-size: cover;
+    transform: translatex(200px);
+}
+.page11sub{
+    padding-top: 250px;
+    color: #ffffff;
+    padding-left: 120px;
+}
+.page11sub input{
+    height: 59px;
+    width:450px;
+}
+.page11sub button{
+    width: 120px;
+    height: 50px;
+    padding-top: 3px;
+    border-radius: none;
+    background-color: #45f2f2;
+    transform: translatex(-130px);
+}
+.page11icons{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+   padding-left: 250px;
+    
+}
+.pagecont{
+    padding: 30px;
+    display: flex;
+    padding-left: 200px;
+    justify-content: space-between;
+}
+.pagecont h3{
+    padding-top:1px ;
+    font-size: 25px;
+}
+.pagecont p{
+    padding: 10px;
+    color: #665a5a;
+}
+.Logo{
+    display: flex;
+}
+
+
+
+
